@@ -1,4 +1,4 @@
-resho Fields - Local Market Web Application
+Fresho Fields - Local Market Web Application
 
 Welcome to Fresho Fields, a clean, modern, and fully functional front-end for a local online market specializing in fresh vegetables and fruits. This project was built from scratch to demonstrate a complete, single-file web application that is ready for deployment and further development.
 
@@ -8,23 +8,23 @@ This is a client-side e-commerce application built with HTML, JavaScript, and st
 
 ✨ Features
 
-Interactive Product Grid: A responsive grid that showcases all available produce with images, names, and prices.
+1. Interactive Product Grid: A responsive grid that showcases all available produce with images, names, and prices.
 
-Dynamic Shopping Cart: A slide-in sidebar cart that updates in real-time as users add or remove items.
+2. Dynamic Shopping Cart: A slide-in sidebar cart that updates in real-time as users add or remove items.
 
-Live Calculation: The cart automatically calculates the quantity of each item and the total price.
+3. Live Calculation: The cart automatically calculates the quantity of each item and the total price.
 
-Clean & Modern UI: Styled with Tailwind CSS for a professional and fully responsive design that works on all devices.
+4. Clean & Modern UI: Styled with Tailwind CSS for a professional and fully responsive design that works on all devices.
 
-Self-Contained: The entire application runs from a single HTML file with no external dependencies beyond the Tailwind CSS CDN.
+5. Self-Contained: The entire application runs from a single HTML file with no external dependencies beyond the Tailwind CSS CDN.
 
 🛠️ Technologies Used
 
-1.HTML5: For the core structure and content.
+1. HTML5: For the core structure and content.
 
-2.Tailwind CSS: For all styling, providing a utility-first and responsive design.
+2. Tailwind CSS: For all styling, providing a utility-first and responsive design.
 
-3.JavaScript (ES6): For all client-side logic, including rendering products and managing the shopping cart state.
+3. JavaScript (ES6): For all client-side logic, including rendering products and managing the shopping cart state.
 
 
 
